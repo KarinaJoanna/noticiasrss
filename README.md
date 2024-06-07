@@ -1,6 +1,6 @@
 # INEGI RSS News Reader App
 
-This mobile application developed with React Native serves as an RSS news reader for the National Institute of Statistics and Geography (INEGI). It utilizes React Native for the user interface and Redux for state management.
+This mobile application developed with React Native serves as an RSS news reader for Instituto Nacional de Estadística y Geografía (INEGI). It utilizes React Native for the user interface and Redux for state management.
 
 * * *
 
