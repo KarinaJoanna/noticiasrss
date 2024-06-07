@@ -64,4 +64,5 @@ xml2js
 
 ## App Previews
 
-![Android App Screenshot](images/androidapppreview)
+![Android App Screenshot](images/androidapppreview.png)
+
