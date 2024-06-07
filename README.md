@@ -64,5 +64,5 @@ xml2js
 
 ## App Previews
 
-![Android App Screenshot](images/androidapppreview.png)
+<img src="images/androidapppreview.png" alt="Android App Screenshot" width="100" height="200">
 
